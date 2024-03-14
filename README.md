@@ -16,15 +16,14 @@ The e-learning management system (e-LMS) project operates as a comprehensive pla
 5.	Interactive Quizzes:
 •	Teachers create quizzes with questions relevant to course topics and learning objectives.
 •	Students participate in quizzes, answering questions and receiving immediate feedback on their performance.
-
 6.	Communication and Collaboration:
- 
-•	The e-LMS platform facilitates communication and collaboration between users through messaging features, discussion forums, and group chats.
+ •	The e-LMS platform facilitates communication and collaboration between users through messaging features, discussion forums, and group chats.
 •	Teachers can engage with students, provide support, and foster discussion on course-related topics.
-7.	Data Management and Analytics:
+8.	Data Management and Analytics:
 •	MySQL database stores essential data such as user profiles, course information, assignments, quiz results, and communication logs.
 •	Administrators and teachers can generate reports and analyse data to assess student performance, track course progress, and identify areas for improvement.
-8.	Scalability and Adaptability:
+9.	Scalability and Adaptability:
 •	The e-LMS project is designed to be scalable and adaptable to accommodate growth and changes in educational needs.
 •	Ongoing updates and improvements ensure that the platform remains relevant and effective in meeting the evolving demands of online education.
+
 In essence, the e-LMS project streamlines educational processes, fosters collaboration, and enhances the learning experience for users across various roles. Through its intuitive interface and robust functionality, the platform empowers educators and learners to engage in dynamic and interactive online learning environments.
